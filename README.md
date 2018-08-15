@@ -1,8 +1,6 @@
 # Awesome - Interpretable Machine Leanring Papers/Books
 
-A curated list of the interpretable machine learning papers.
-
-We believe that there exist *classic* deep learning papers which are worth reading regardless of their application domain. Rather than providing overwhelming amount of papers, We would like to provide a *curated list* of the awesome deep learning papers which are considered as *must-reads* in certain research domains.
+A list of the interpretable machine learning papers. The purpose of this list is to encourage transportation researchers interested in the world of interpretable machine learning.
 
 ## Background
 
@@ -44,6 +42,4 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **A Guide for Making Black Box Models Explainable.** (2018), C. Molnar [[gitbook]](https://christophm.github.io/interpretable-ml-book/)
 
 
-## Acknowledgement
-...
 
